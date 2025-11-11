@@ -122,9 +122,9 @@
             "enabled": false
         }
     },
-    "appVersion": "0.0.23",
-    "buildNumber": 4,
-    "runtimeUrl": "https://lcgpaservicemobile100-sandbox.mxapps.io/index.html?profile=Responsive",
+    "appVersion": "0.0.2",
+    "buildNumber": 5,
+    "runtimeUrl": "https://lcgpaservicemobile100-sandbox.mxapps.io",
     "hermesEnabled": false,
     "cookieEncryptionEnabled": false
 }

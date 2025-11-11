@@ -3,7 +3,7 @@ PRODUCT_BUNDLE_IDENTIFIER = $(BUNDLE_IDENTIFIER)$(BUNDLE_IDENTIFIER_APPEND)
 BUNDLE_DISPLAY_NAME = LCGPA Service Mobile
 BUNDLE_IDENTIFIER = myapp.lcgpaservicemobile
 
-RUNTIME_URL = https:\/\/lcgpaservicemobile100-sandbox.mxapps.io/index.html?profile=Responsive
+RUNTIME_URL = https:\/\/lcgpaservicemobile100-sandbox.mxapps.io
 
 PRODUCT_NAME = LCGPAServiceMob
 
